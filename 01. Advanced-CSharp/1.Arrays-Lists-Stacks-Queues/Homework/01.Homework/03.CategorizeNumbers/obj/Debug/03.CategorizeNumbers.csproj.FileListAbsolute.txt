@@ -1,0 +1,6 @@
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.csprojResolveAssemblyReference.cache

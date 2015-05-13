@@ -1,0 +1,6 @@
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\06.SubsetSums\obj\Debug\06.SubsetSums.csprojResolveAssemblyReference.cache
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\06.SubsetSums\bin\Debug\06.SubsetSums.exe
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\06.SubsetSums\bin\Debug\06.SubsetSums.pdb
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\06.SubsetSums\obj\Debug\06.SubsetSums.exe
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\06.SubsetSums\obj\Debug\06.SubsetSums.pdb

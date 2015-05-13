@@ -1,0 +1,6 @@
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\05.LongestIncreasingSeq\bin\Debug\05.LongestIncreasingSeq.exe.config
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\05.LongestIncreasingSeq\bin\Debug\05.LongestIncreasingSeq.exe
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\05.LongestIncreasingSeq\bin\Debug\05.LongestIncreasingSeq.pdb
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\05.LongestIncreasingSeq\obj\Debug\05.LongestIncreasingSeq.csprojResolveAssemblyReference.cache
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\05.LongestIncreasingSeq\obj\Debug\05.LongestIncreasingSeq.exe
+C:\Users\Asen Santev\Dropbox\Programming\Level 1 - Fundamentals\01.Advanced-CSharp\1. Advanced-CSharp\Homework\01.Homework\05.LongestIncreasingSeq\obj\Debug\05.LongestIncreasingSeq.pdb
